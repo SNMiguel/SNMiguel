@@ -1,7 +1,6 @@
 <h1 align="center">Hey there, I'm Miguel 👋</h1>
-<p align="center">🚀 Software Engineer | 🧠 AI Enthusiast | 🎮 Gamer | 🇷🇼 Rwanda to 🌍</p>
+<p align="center">🚀 Software Engineer | 🧠 AI Enthusiast | 🎮 Gamer </p>
 
----
 
 ### 🔥 About Me
 - 🎓 CS Student @ Grambling State University
@@ -9,7 +8,6 @@
 - 💡 Passionate about using tech to solve real-world problems
 - 🌱 Currently leveling up in DSA, Android Dev, and FastAPI
 
----
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -18,13 +16,11 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
----
 
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK/)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
 
----
 
 ### 📈 GitHub Stats
 <p align="center">
