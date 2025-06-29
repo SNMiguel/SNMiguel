@@ -7,7 +7,7 @@
 - 🎓 CS Student @ Grambling State University
 - 🤖 Building projects in AI, ML, and Full-Stack dev
 - 💡 Passionate about using tech to solve real-world problems
-- 🌱 Currently leveling up in DSA, Android Dev, and FastAPI
+- 🌱 Currently leveling up in DSA, Android Dev, and FastAPI.
 
 ***
 
