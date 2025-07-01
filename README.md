@@ -28,8 +28,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SNMiguel&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SNMiguel&theme=radical" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SNMiguel&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=SNMiguel&theme=radical" width="48%" />
 </p>
 
 <p align="center">
