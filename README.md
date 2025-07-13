@@ -22,14 +22,13 @@
 
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/migztech/)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:shemamiguel2023@gmail.com)
+[![Email](https://img.shields.io/badge/Email-red)](mailto:shemamiguel2023@gmail.com)
 
 ***
 
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SNMiguel&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=SNMiguel&theme=radical" width="48%" />
 </p>
 
 <p align="center">
