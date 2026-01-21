@@ -63,8 +63,8 @@
 
 <div align="center">
 
-[![Crypto Trading Bot](https://github-readme-stats.vercel.app/api/pin/?username=SNMiguel&repo=crypto-trading-bot&theme=radical&hide_border=true)](https://github.com/SNMiguel/crypto-trading-bot)
-[![Stroke Connect](https://github-readme-stats.vercel.app/api/pin/?username=SNMiguel&repo=stroke-connect&theme=radical&hide_border=true)](https://github.com/SNMiguel/stroke-connect)
+[![R Cryptocurrency Trading Bot](https://github-readme-stats.vercel.app/api/pin/?username=SNMiguel&repo=R-Cryptocurrency-Trading-Bot&theme=radical&hide_border=true)](https://github.com/SNMiguel/R-Cryptocurrency-Trading-Bot)
+[![JavaScript Chess Game](https://github-readme-stats.vercel.app/api/pin/?username=SNMiguel&repo=javascript-chess-game&theme=radical&hide_border=true)](https://github.com/SNMiguel/javascript-chess-game)
 
 </div>
 
