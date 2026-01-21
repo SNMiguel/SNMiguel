@@ -72,9 +72,9 @@
 <summary><b>🚀 More About My Work</b></summary>
 <br>
 
-- 🏥 **Stroke-Connect**: Healthcare management dashboard with FastAPI & React
-- 🤖 **WEEBRaphael**: AI-powered anime recommendation chatbot
-- 📺 **PulseScreen**: Netflix clone with Spring Boot & JWT authentication  
+- 📊 **Gold Price Prediction Model**: Machine learning model using Python & Jupyter Notebook to forecast gold prices with statistical analysis
+- 📈 **AAPL Stock Regression Model**: Python-based regression analysis predicting Apple stock trends using historical data
+- 🎮 **C++ Checkers Game**: Object-oriented checkers implementation with game logic and AI opponent
 - 💹 **Crypto Trading Bot**: Automated trading system with 4,200+ lines of R code
 - 📚 Recommendation systems using NLP & ML algorithms
 
@@ -105,7 +105,7 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/migztech/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shemamiguel2023@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]([https://yourportfolio.com](https://migztech.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://migztech.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SNMiguel)
 
 </div>
