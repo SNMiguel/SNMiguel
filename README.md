@@ -15,22 +15,17 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ### 🔥 About Me
-```python
-class Miguel:
-    def __init__(self):
-        self.username = "SNMiguel"
-        self.education = "CS @ Grambling State University"
-        self.role = "Software Engineer | AI Enthusiast"
-        self.interests = ["AI/ML", "Full-Stack Dev", "Android Dev", "Game Dev"]
-        self.current_focus = ["DSA", "FastAPI", "Kotlin"]
-        self.passion = "Using tech to solve real-world problems"
-    
-    def say_hi(self):
-        print("Let's build something amazing together!")
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-me = Miguel()
-me.say_hi()
-```
+- 🎓 **CS Student** @ Grambling State University
+- 🤖 Building projects in **AI, ML, and Full-Stack Development**
+- 💡 Passionate about using tech to **solve real-world problems**
+- 🌱 Currently leveling up in **DSA, Android Dev, and FastAPI**
+- 🏢 Former **PwC Consultant** | ColorStack & NSBE Member
+- 🎯 Actively seeking **Software Development Internships** for Summer 2026
+- ⚡ Fun fact: I turn caffeine into code and algorithms into solutions!
+
+<br clear="right"/>
 
 <br clear="right"/>
 
