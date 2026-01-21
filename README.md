@@ -90,7 +90,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SNMiguel&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=SNMiguel&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
@@ -102,7 +102,7 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SNMiguel&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SNMiguel&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -128,7 +128,7 @@
 
 ### 👀 Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/SNMiguel/count.svg)
+<img src="https://komarev.com/ghpvc/?username=SNMiguel&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 </div>
 
