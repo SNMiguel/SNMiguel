@@ -15,7 +15,6 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ### 🔥 About Me
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 - 🎓 **CS Student** @ Grambling State University
 - 🤖 Building projects in **AI, ML, and Full-Stack Development**
