@@ -59,14 +59,21 @@
 
 ---
 
-### 🌟 Featured Projects
+## 🌟 Featured Projects
 
-<div align="center">
+### [🌱 PlantGuard-AI](https://github.com/SNMiguel/PlantGuard-AI)
+Deep learning plant disease classifier using PyTorch • **95% accuracy** • 54K images • 38 classes
 
-[![PlantGuard AI](https://github-readme-stats.vercel.app/api/pin/?username=SNMiguel&repo=PlantGuard-AI&theme=radical&hide_border=true)](https://github.com/SNMiguel/PlantGuard-AI)
-[![Stock Price Prediction ML](https://github-readme-stats.vercel.app/api/pin/?username=SNMiguel&repo=Stock-Price-Prediction-ML&theme=radical&hide_border=true)](https://github.com/SNMiguel/Stock-Price-Prediction-ML)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Accuracy](https://img.shields.io/badge/Accuracy-95.02%25-brightgreen)
 
-</div>
+### [📈 Stock Price Prediction ML](https://github.com/SNMiguel/Stock-Price-Prediction-ML)
+Multi-framework ML system comparing scikit-learn & TensorFlow • **R² 0.79** • 4 models
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 <details>
 <summary><b>🚀 More About My Work</b></summary>
