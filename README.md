@@ -63,8 +63,8 @@
 
 <div align="center">
 
-[![R Cryptocurrency Trading Bot](https://github-readme-stats.vercel.app/api/pin/?username=SNMiguel&repo=R-Cryptocurrency-Trading-Bot&theme=radical&hide_border=true)](https://github.com/SNMiguel/R-Cryptocurrency-Trading-Bot)
-[![JavaScript Chess Game](https://github-readme-stats.vercel.app/api/pin/?username=SNMiguel&repo=javascript-chess-game&theme=radical&hide_border=true)](https://github.com/SNMiguel/javascript-chess-game)
+[![PlantGuard AI](https://github-readme-stats.vercel.app/api/pin/?username=SNMiguel&repo=PlantGuard-AI&theme=radical&hide_border=true)](https://github.com/SNMiguel/PlantGuard-AI)
+[![Stock Price Prediction ML](https://github-readme-stats.vercel.app/api/pin/?username=SNMiguel&repo=Stock-Price-Prediction-ML&theme=radical&hide_border=true)](https://github.com/SNMiguel/Stock-Price-Prediction-ML)
 
 </div>
 
