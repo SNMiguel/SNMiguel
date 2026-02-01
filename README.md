@@ -90,10 +90,6 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=SNMiguel&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SNMiguel&theme=redical&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
 </div>
 
