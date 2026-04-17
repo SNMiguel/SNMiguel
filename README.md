@@ -71,7 +71,7 @@ Deep learning plant disease classifier using PyTorch • **95% accuracy** • 54
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Accuracy](https://img.shields.io/badge/Accuracy-95.02%25-brightgreen)
 
-### [📈 Stock Price Prediction ML](https://github.com/SNMiguel/Stock-Price-Prediction-ML)
+### [📈 QuantPilot](https://github.com/SNMiguel/QuantPilot)
 Multi-framework ML system comparing scikit-learn & TensorFlow • **R² 0.79** • 4 models
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
