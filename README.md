@@ -21,7 +21,7 @@
 - 💡 Passionate about using tech to **solve real-world problems**
 - 🌱 Currently leveling up in **DSA, Android Dev, and FastAPI**
 - 🏢 Former **PwC Consultant** | ColorStack & NSBE Member
-- 🎯 Actively seeking **Software Development Internships** for Summer 2026
+- 🎯 Actively seeking **Software Development Internships** for Summer 2027
 - ⚡ Fun fact: I turn caffeine into code and algorithms into solutions!
 
 <br clear="right"/>
