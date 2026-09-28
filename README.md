@@ -94,16 +94,14 @@ Multi-framework ML system comparing scikit-learn & TensorFlow • **R² 0.79** �
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SNMiguel&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" height="165" alt="Miguel's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNMiguel&layout=compact&theme=radical&hide_border=true&langs_count=6" height="165" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=SNMiguel&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" height="165" alt="Miguel's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SNMiguel&layout=compact&theme=radical&hide_border=true&langs_count=6" height="165" alt="Top Languages" />
+</p>
 
-<br />
-
-<div align="center">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SNMiguel&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+</p>
 
 ---
 
