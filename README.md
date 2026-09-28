@@ -95,11 +95,20 @@ Multi-framework ML system comparing scikit-learn & TensorFlow • **R² 0.79** �
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SNMiguel&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SNMiguel&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" height="175" alt="Miguel's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SNMiguel&layout=compact&theme=radical&hide_border=true&langs_count=6" height="175" alt="Top Languages" />
 </div>
 
+<br />
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SNMiguel&theme=redical&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SNMiguel&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SNMiguel&theme=radical&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
